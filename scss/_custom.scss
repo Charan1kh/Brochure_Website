@@ -20,6 +20,8 @@ $primary: $purple-dark;
 $secondary: $pink;
 
 //ACCORDION OVERRIDES
+$accordion-padding-y: 1.5rem; // LEAVE THE PADDING-Y TO DEFAULT
+$accordion-padding-x: 1.5rem; // LEAVE THE PADDING-X TO DEFAULT
 $accordion-icon-color: $primary;
 $accordion-icon-active-color: $secondary;
 $accordion-icon-width: 1.75rem;
