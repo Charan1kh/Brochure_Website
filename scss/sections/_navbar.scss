@@ -1,6 +1,9 @@
 @use "../custom" as *;
 @use "../components/mixins" as *;
 
+.navbar-brand {
+  max-height: 2px;
+}
 .menu {
   @include gradient;
 
